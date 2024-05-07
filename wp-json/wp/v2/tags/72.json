@@ -1,0 +1,39 @@
+{
+    "id": 72,
+    "count": 19,
+    "description": "",
+    "link": "https:\/\/sunnydhiman.com\/tag\/professional-wedding-photographers\/",
+    "name": "Professional Wedding Photographers",
+    "slug": "professional-wedding-photographers",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/sunnydhiman.com\/wp-json\/wp\/v2\/tags\/72"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/sunnydhiman.com\/wp-json\/wp\/v2\/tags"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/sunnydhiman.com\/wp-json\/wp\/v2\/taxonomies\/post_tag"
+            }
+        ],
+        "wp:post_type": [
+            {
+                "href": "https:\/\/sunnydhiman.com\/wp-json\/wp\/v2\/posts?tags=72"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
